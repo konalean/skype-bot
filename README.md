@@ -6,6 +6,7 @@
 
 # app/bots/skypeBot.js 參數
    appId: $appId
+   
    appPassword: 建立機器人時產生的password
 
 
